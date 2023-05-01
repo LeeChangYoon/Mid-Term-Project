@@ -3,5 +3,5 @@
 <br>
 
 # :eyes: Resume
-> * https://leechangyoon.github.io
+> * https://leechangyoon.github.io/Mid-Term-Project/
 > * Originally from rajaprerak's personal portfolio.
